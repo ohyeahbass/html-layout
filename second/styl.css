@@ -1,0 +1,33 @@
+.one{
+	background-color:#4A90E2;
+	width:33.33%;
+	height:100%;
+	display:inline;
+	float:left;
+}
+.two{
+	background-color:#50E3C2;
+	width:33.3%;
+	height: 100%;
+	display:inline;
+	float:left;
+}
+.four{
+	background-color:#d0021b;
+	width:33%;
+	height:20%;
+	
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	padding:2px;
+	margin-bottom:-20px;
+	
+
+}
+body{
+	background-cover:100%;
+	margin:0%;
+	background-color:#b8e986;
+	height: 820px;
+}
